@@ -47,3 +47,4 @@ $ cd redis
 $ docker-compose up -d
 ```
 This will start a redis server on `6379` and a redis-commander on `8081`. If you are a fan of redis-cli, run `redis-cli.sh` script in the same dir for the console.
+
